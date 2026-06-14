@@ -1,0 +1,1 @@
+D:\CM\python3.13.13\python.exe client.py
