@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+build/
+*.spec
+
+# Virtual Environment
+venv/
+.venv/
+env/
+ENV/
+
+# PyInstaller
+dist/
+*.exe
+*.pkg
+*.pyz
+*.toc
+base_library.zip
+localpycs/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Temporary files
+_temp_*
+*.log
+*.tmp
+
+# System files
+Thumbs.db
+.DS_Store
